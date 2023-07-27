@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/blog" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog/templates/blog/blog_confirm_delete.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog/templates/blog/blog_detail.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog/templates/blog/blog_list.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/catalog/management" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/catalog/management0" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/catalog/templates/catalog/product_detail.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/catalog/templatetags" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/catalog/urls.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/css/album.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap-grid.css.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap-grid.min.css" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
